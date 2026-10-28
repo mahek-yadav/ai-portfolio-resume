@@ -1,0 +1,25 @@
+Job Title: Machine Learning Engineering Intern
+Company: DataNova Technologies (Sample Job Posting)
+Location: Seattle, WA / Hybrid
+Job Type: Summer Internship (3 Months)
+
+About the Role:
+DataNova is seeking an enthusiastic Machine Learning Engineering Intern to join our Predictive Systems team. In this role, you will work closely with senior research scientists and machine learning engineers to build, benchmark, and deploy predictive models using tabular and time-series datasets.
+
+Key Responsibilities:
+- Design, implement, and validate machine learning pipelines in Python using Scikit-Learn and PyTorch.
+- Conduct exploratory data analysis (EDA), data cleaning, feature engineering, and outlier detection with Pandas and NumPy.
+- Benchmark classification and regression algorithms, evaluating precision, recall, F1-score, and R² metrics.
+- Assist in containerizing model inference services and integrating REST APIs with Flask.
+- Document experimental findings, model assumptions, and comparative performance benchmarks.
+- Collaborate in agile sprint ceremonies and present technical project progress to team stakeholders.
+
+Qualifications & Requirements:
+- Currently pursuing a Bachelor's or Master's degree in Computer Science, Data Science, or related STEM field.
+- Strong programming fundamentals in Python and proficiency with SQL for data extraction.
+- Hands-on project or coursework experience in Machine Learning, Statistical Modeling, and Data Analysis.
+- Familiarity with core ML libraries: Scikit-Learn, Pandas, NumPy, and Matplotlib.
+- Experience with deep learning frameworks like PyTorch or Transformers is a plus.
+- Solid understanding of Git version control and collaborative development.
+- Strong analytical mindset, problem-solving skills, and clear technical communication.
+

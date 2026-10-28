@@ -1,0 +1,45 @@
+# Environment Variables & Secrets
+.env
+.env.local
+backend/.env
+frontend/.env
+*.pem
+credentials/
+backend/credentials/
+*.json
+!sample_data/*.json
+!package*.json
+!tsconfig*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+backend/venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.npm
+npm-debug.log*
+
+# Database & Storage
+backend/portfolio.db
+*.sqlite3
+
+# Operating System
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Retain generated_resumes directory with gitkeep if needed, but ignore ad-hoc files except sample resumes
+generated_resumes/*.tmp
+

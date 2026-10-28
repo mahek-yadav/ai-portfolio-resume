@@ -1,0 +1,12 @@
+{
+  "name": "ai-portfolio-resume-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-Powered Portfolio Database & Dynamic Resume Generator",
+  "scripts": {
+    "backend": "cd backend && source venv/bin/activate && python app.py",
+    "frontend": "cd frontend && npm run dev",
+    "test": "backend/venv/bin/pytest backend/test_suite.py"
+  }
+}
+
