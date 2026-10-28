@@ -559,10 +559,3 @@ backend/venv/bin/python backend/generate_sample_resumes.py
 
 ---
 
-## 26. Instructions for Capturing Screenshots & Recording Demonstration Video
-
-1. **Capturing Screenshots:**
-   - Refer to `screenshots/README.md` for the 8 specific screenshots, checklist names, and Mac capture shortcuts (`Command + Shift + 4` then `Space`).
-2. **Recording Demonstration Video:**
-   - Refer to `DEMO_SCRIPT.md` for the complete 3–5 minute spoken presentation script, screen actions, and viva defense tips.
-
